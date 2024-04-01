@@ -1,0 +1,6 @@
+# @package _group_
+data_root_dir: D:/StableDiffusion/lama/celeba-hq-dataset/
+out_root_dir: D:/StableDiffusion/lama/experiments
+tb_dir: D:/StableDiffusion/lama/tb_logs
+pretrained_models: D:/StableDiffusion/lama
+

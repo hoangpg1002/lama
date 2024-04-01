@@ -1,0 +1,4 @@
+- refine=True
+- model.path=D:\StableDiffusion\lama\big-lama
+- indir=D:\StableDiffusion\lama\LaMa_test_images
+- outdir=D:\StableDiffusion\lama\output

@@ -1,5 +1,6 @@
 SET TORCH_HOME=D:\StableDiffusion\lama\models
 SET PYTHONPATH=D:\StableDiffusion\lama
+set USER=$(whoami)
+
 
 python bin/train.py -cn lama-fourier-celeba data.batch_size=5
-set USER=$(whoami)

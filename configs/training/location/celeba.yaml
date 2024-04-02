@@ -1,6 +1,6 @@
 # @package _group_
-data_root_dir: D:/StableDiffusion/lama/celeba-hq-dataset/
-out_root_dir: D:/StableDiffusion/lama/experiments
-tb_dir: D:/StableDiffusion/lama/tb_logs
-pretrained_models: D:/StableDiffusion/lama
+data_root_dir: /kaggle/input/celeba-hq-dataset-lama/celeba-hq-dataset
+out_root_dir: /kaggle/working/lama/experiments
+tb_dir: /kaggle/working/lama/tb_logs
+pretrained_models: /kaggle/working/lama
 
